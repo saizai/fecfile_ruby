@@ -15,11 +15,11 @@ require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://guides.rubygems.org/specification-reference/ for more options
   gem.name = "fecfile_ruby"
-  gem.homepage = "http://github.com/saizai/fecfile_ruby"
+  gem.homepage = "http://github.com/makeyourlaws/fecfile_ruby"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "github@saizai.com"
+  gem.summary = "An open-source Ruby implementation of FECFile"
+  gem.description = "An open-source Ruby implementation of FECFile"
+  gem.email = "core@makeyourlaws.org"
   gem.authors = ["Sai"]
   # dependencies defined in Gemfile
 end
